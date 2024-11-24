@@ -1,3 +1,5 @@
+
+
 # Electromyographic (EMG) Signal Analysis for Gesture Recognition
 
 ## Overview
@@ -10,7 +12,7 @@ The pipeline includes:
 - Training machine learning models for gesture classification.
 
 ### EMG Signal Representation
-![EMG Signal for Gesture Recognition](https://www.researchgate.net/publication/318410077/figure/fig1/AS:614173788602392@1523441850907/Architecture-of-the-implemented-hand-gesture-recognition-based-on-EMG-signal-acquisition.png)
+![EMG Signal for Gesture Recognition](assets/emg_architecture.png)
 
 The above image illustrates the architecture of an EMG-based hand gesture recognition system, demonstrating how signals are acquired, processed, and classified.
 
@@ -98,10 +100,10 @@ This project aims to automate gesture recognition using EMG signals, paving the 
 
 ### Retinal Images for Severe Diabetic Retinopathy and Normal Retinopathy
 - **Severe Diabetic Retinopathy:**
-  ![Severe DR](https://www.kaggleusercontent.com/input/diabetic-retinopathy-224x224-gaussian-filtered/gaussian_filtered_images/gaussian_filtered_images/Severe/03c85870824c.png)
+  ![Severe DR](assets/severe_diabetic_retinopathy.png)
 
 - **No Diabetic Retinopathy:**
-  ![No DR](https://www.kaggleusercontent.com/input/diabetic-retinopathy-224x224-gaussian-filtered/gaussian_filtered_images/gaussian_filtered_images/No_DR/00f6c1be5a33.png)
+  ![No DR](assets/no_diabetic_retinopathy.png)
 
 These images illustrate the contrast between a normal retinal fundus and one severely affected by diabetic retinopathy, showing how advanced vision impairment can manifest.
 
@@ -197,3 +199,6 @@ For questions or suggestions, please contact:
 **Email:** adeelmukhtar051@gmail.com  
 **GitHub:** [adeel2208](https://github.com/adeel2208)  
 **LinkedIn:** [Adeel Mukhtar](https://www.linkedin.com/in/adeel-mukhtar-174b71270/)  
+
+---
+
