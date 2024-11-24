@@ -1,5 +1,3 @@
-
-
 # Electromyographic (EMG) Signal Analysis for Gesture Recognition
 
 ## Overview
@@ -10,11 +8,6 @@ The pipeline includes:
 - Preprocessing raw EMG signals.
 - Combining multi-subject data into a unified dataset.
 - Training machine learning models for gesture classification.
-
-### EMG Signal Representation
-![EMG Signal for Gesture Recognition](assets/emg_architecture.png)
-
-The above image illustrates the architecture of an EMG-based hand gesture recognition system, demonstrating how signals are acquired, processed, and classified.
 
 ---
 
@@ -93,19 +86,6 @@ This project aims to automate gesture recognition using EMG signals, paving the 
   3. Recall
   4. F1-Score
 - Confusion Matrix for visualizing classification performance.
-
----
-
-## Diabetic Retinopathy Example
-
-### Retinal Images for Severe Diabetic Retinopathy and Normal Retinopathy
-- **Severe Diabetic Retinopathy:**
-  ![Severe DR](assets/severe_diabetic_retinopathy.png)
-
-- **No Diabetic Retinopathy:**
-  ![No DR](assets/no_diabetic_retinopathy.png)
-
-These images illustrate the contrast between a normal retinal fundus and one severely affected by diabetic retinopathy, showing how advanced vision impairment can manifest.
 
 ---
 
@@ -199,6 +179,3 @@ For questions or suggestions, please contact:
 **Email:** adeelmukhtar051@gmail.com  
 **GitHub:** [adeel2208](https://github.com/adeel2208)  
 **LinkedIn:** [Adeel Mukhtar](https://www.linkedin.com/in/adeel-mukhtar-174b71270/)  
-
----
-
