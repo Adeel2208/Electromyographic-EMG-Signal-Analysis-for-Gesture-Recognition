@@ -3,7 +3,7 @@
 ## Overview
 
 This project focuses on analyzing electromyographic (EMG) signals to recognize hand gestures. EMG signals capture electrical activity in muscles during movement and are widely used in applications such as rehabilitation, prosthetics, and gesture-controlled systems. By analyzing this data, we aim to classify different gestures based on muscle activity.
-
+https://www.google.com/imgres?q=emg%20signals%20for%20gesture&imgurl=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F318410077%2Ffigure%2Ffig1%2FAS%3A614173788602392%401523441850907%2FArchitecture-of-the-implemented-hand-gesture-recognition-based-on-EMG-signal-acquisition.png&imgrefurl=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FArchitecture-of-the-implemented-hand-gesture-recognition-based-on-EMG-signal-acquisition_fig1_318410077&docid=9uIYh_dBS0pTbM&tbnid=gSyjVn1lqGj2dM&vet=12ahUKEwiws9uu3PWJAxUCSvEDHde2JhEQM3oECGkQAA..i&w=738&h=304&hcb=2&ved=2ahUKEwiws9uu3PWJAxUCSvEDHde2JhEQM3oECGkQAA
 The pipeline includes:
 - Preprocessing raw EMG signals.
 - Combining multi-subject data into a unified dataset.
