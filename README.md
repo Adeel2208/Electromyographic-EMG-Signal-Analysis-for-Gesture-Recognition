@@ -3,11 +3,16 @@
 ## Overview
 
 This project focuses on analyzing electromyographic (EMG) signals to recognize hand gestures. EMG signals capture electrical activity in muscles during movement and are widely used in applications such as rehabilitation, prosthetics, and gesture-controlled systems. By analyzing this data, we aim to classify different gestures based on muscle activity.
-https://www.google.com/imgres?q=emg%20signals%20for%20gesture&imgurl=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F318410077%2Ffigure%2Ffig1%2FAS%3A614173788602392%401523441850907%2FArchitecture-of-the-implemented-hand-gesture-recognition-based-on-EMG-signal-acquisition.png&imgrefurl=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FArchitecture-of-the-implemented-hand-gesture-recognition-based-on-EMG-signal-acquisition_fig1_318410077&docid=9uIYh_dBS0pTbM&tbnid=gSyjVn1lqGj2dM&vet=12ahUKEwiws9uu3PWJAxUCSvEDHde2JhEQM3oECGkQAA..i&w=738&h=304&hcb=2&ved=2ahUKEwiws9uu3PWJAxUCSvEDHde2JhEQM3oECGkQAA
+
 The pipeline includes:
 - Preprocessing raw EMG signals.
 - Combining multi-subject data into a unified dataset.
 - Training machine learning models for gesture classification.
+
+### EMG Signal Representation
+![EMG Signal for Gesture Recognition](https://www.researchgate.net/publication/318410077/figure/fig1/AS:614173788602392@1523441850907/Architecture-of-the-implemented-hand-gesture-recognition-based-on-EMG-signal-acquisition.png)
+
+The above image illustrates the architecture of an EMG-based hand gesture recognition system, demonstrating how signals are acquired, processed, and classified.
 
 ---
 
@@ -86,6 +91,19 @@ This project aims to automate gesture recognition using EMG signals, paving the 
   3. Recall
   4. F1-Score
 - Confusion Matrix for visualizing classification performance.
+
+---
+
+## Diabetic Retinopathy Example
+
+### Retinal Images for Severe Diabetic Retinopathy and Normal Retinopathy
+- **Severe Diabetic Retinopathy:**
+  ![Severe DR](https://www.kaggleusercontent.com/input/diabetic-retinopathy-224x224-gaussian-filtered/gaussian_filtered_images/gaussian_filtered_images/Severe/03c85870824c.png)
+
+- **No Diabetic Retinopathy:**
+  ![No DR](https://www.kaggleusercontent.com/input/diabetic-retinopathy-224x224-gaussian-filtered/gaussian_filtered_images/gaussian_filtered_images/No_DR/00f6c1be5a33.png)
+
+These images illustrate the contrast between a normal retinal fundus and one severely affected by diabetic retinopathy, showing how advanced vision impairment can manifest.
 
 ---
 
